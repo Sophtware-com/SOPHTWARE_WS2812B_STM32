@@ -1,7 +1,9 @@
-# WS2812B_STM32_Libmaple
-WS2812B (Neopixel) library for Arduino STM32 (Libmaple core)
+# SOPHTWARE_WS2812B_STM32
+WS2812B library for STM32 cores
 
 Written by Roger Clark www.rogerclark.net, from first principals
+
+Forked and Updated by Michael Lange a.k.a. SUPER Mike.
 
 This library uses SPI DMA to control a strip of WS2812B (NeoPixel) LEDS
 
